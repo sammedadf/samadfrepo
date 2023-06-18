@@ -1,0 +1,9 @@
+{
+	"name": "adf-samci-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "720ac298-f62b-43a8-868d-a87408d73e4a",
+		"tenantId": "6063249a-160d-45cc-82e9-f327418e8c91"
+	}
+}

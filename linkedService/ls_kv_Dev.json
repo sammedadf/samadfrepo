@@ -1,0 +1,10 @@
+{
+	"name": "ls_kv_Dev",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-adfsamci-dev.vault.azure.net/"
+		}
+	}
+}
